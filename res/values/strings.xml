@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">IntentsDemo</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="second_activity">Second Activity</string>
+    <string name="start_second_activity">Start Second Activity</string>
+    <string name="view_webpage">View webpage</string>
+    <string name="share_text">Share Text</string>
+    <string name="custom_activity_string">StartSecondActivity</string>
+    <string name="start_implicit_second_activity">Implicitly start the second activity</string>
+
+</resources>
